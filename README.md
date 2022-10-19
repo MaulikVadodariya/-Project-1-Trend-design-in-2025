@@ -1,8 +1,10 @@
 # HTML ![](./readme-images/html-5-img.png) and CSS ![](./readme-images/css-3-img.png)
 
-# Project 1 - Trend Design in 2025
+# Project 1 - Trend Design in 2025 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
 By Maulik Vadodariya
+
+## [Link to the live Project](https://trendy-design-in-2025.netlify.app/) 
 
 ![Completed Website](./readme-images/ScreenShot-20221017204113.png)
 
