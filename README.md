@@ -1,4 +1,4 @@
-# HTML ![](https://trendy-design-in-2025.netlify.app/images/readme-images/html-5-img.png) and CSS ![](https://trendy-design-in-2025.netlify.app/images/readme-images/css-3-img.png)
+# HTML ![](https://trendy-design-in-2025.netlify.app/assets/readme-images/html-5-img.png) and CSS ![](https://trendy-design-in-2025.netlify.app/assets/readme-images/css-3-img.png)
 
 # Project 1 - Trend Design in 2025 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
@@ -6,7 +6,7 @@ By Maulik Vadodariya
 
 ## [Link to the live Project](https://trendy-design-in-2025.netlify.app/)
 
-![Completed Website](https://trendy-design-in-2025.netlify.app/images/readme-images/ScreenShot-20221017204113.png)
+![Completed Website](https://trendy-design-in-2025.netlify.app/assets/readme-images/ScreenShot-20221017204113.png)
 
 ## What I learned from this Project?
 
